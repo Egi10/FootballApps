@@ -17,8 +17,6 @@ import com.footballapps.egifcb.footballapps.api.ApiRepository
 import com.footballapps.egifcb.footballapps.eventdetail.EventDetailActivity
 import com.footballapps.egifcb.footballapps.model.Event
 import com.google.gson.Gson
-import id.co.egifcb.aplikasifootballmatchschedule.nextevent.NextEventPresenter
-import id.co.egifcb.aplikasifootballmatchschedule.nextevent.NextEventView
 import org.jetbrains.anko.support.v4.ctx
 import org.jetbrains.anko.support.v4.find
 import org.jetbrains.anko.support.v4.onRefresh

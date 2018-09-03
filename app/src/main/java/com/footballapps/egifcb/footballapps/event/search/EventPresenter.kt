@@ -3,8 +3,8 @@ package com.footballapps.egifcb.footballapps.event.search
 import com.footballapps.egifcb.footballapps.api.ApiRepository
 import com.footballapps.egifcb.footballapps.api.TheSportDBApi
 import com.footballapps.egifcb.footballapps.model.ResponseEventSearch
+import com.footballapps.egifcb.footballapps.until.CoroutineContextProvider
 import com.google.gson.Gson
-import id.co.egifcb.aplikasifootballmatchschedule.until.CoroutineContextProvider
 import kotlinx.coroutines.experimental.async
 import org.jetbrains.anko.coroutines.experimental.bg
 
