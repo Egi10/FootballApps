@@ -11,8 +11,13 @@ Ini adalah hasil dari tugas akhir <a href="https://www.dicoding.com/academies/55
 # Teams
 <table><tr>
 <td><img src="https://github.com/Egi10/FootballApps/blob/master/Screenshot_2018-11-07-14-41-12-909_com.footballapps.egifcb.footballapps.png" width="256/" style="max-width:100%;"></td>
-<td><img src="https://github.com/Egi10/CatalogueMovie/blob/master/Screenshot_2018-11-07-14-06-51-358_id.egifcb.cataloguemovie.png" width="256/" style="max-width:100%;"></td>
-<td><img src="https://github.com/Egi10/CatalogueMovie/blob/master/Screenshot_2018-11-07-14-06-57-334_id.egifcb.cataloguemovie.png" width="256/" style="max-width:100%;"></td>
+<td><img src="https://github.com/Egi10/FootballApps/blob/master/Screenshot_2018-11-07-14-44-41-816_com.footballapps.egifcb.footballapps.png" width="256/" style="max-width:100%;"></td>
+</tr></table>
+
+# Player
+<table><tr>
+<td><img src="https://github.com/Egi10/FootballApps/blob/master/Screenshot_2018-11-07-14-44-46-974_com.footballapps.egifcb.footballapps.png" width="256/" style="max-width:100%;"></td>
+<td><img src="https://github.com/Egi10/FootballApps/blob/master/Screenshot_2018-11-07-14-44-54-185_com.footballapps.egifcb.footballapps.png" width="256/" style="max-width:100%;"></td>
 </tr></table>
 
 # Event
