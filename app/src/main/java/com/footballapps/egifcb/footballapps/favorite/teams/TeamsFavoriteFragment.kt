@@ -67,7 +67,7 @@ class TeamsFavoriteFragment : Fragment() {
                 val result = select(TeamFavorite.TABLE_NAME)
                 val favorites = result.parseList(classParser<TeamFavorite>())
                 if (favorites.isEmpty()) {
-                    empty.visibility = View.VISIBLE;
+                    empty.visibility = View.VISIBLE
                 } else {
                     favorite.addAll(favorites)
                 }

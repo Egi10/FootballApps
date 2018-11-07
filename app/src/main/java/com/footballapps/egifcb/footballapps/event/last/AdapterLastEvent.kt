@@ -1,6 +1,7 @@
 package com.footballapps.egifcb.footballapps.event.last
 
 import android.content.Context
+import android.graphics.Color
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
@@ -31,6 +32,12 @@ class AdapterLastEvent(private val context: Context, private val event: List<Eve
             itemView.homeScore.text = event.HomeScore
             itemView.awayTeams.text = event.AwayTeam
             itemView.awayScore.text = event.AwayScore
+
+            when(event.HomeTeam) {
+                "Getafe" -> {
+                    itemView.setBackgroundColor(Color.parseColor("#991EB3"))
+                }
+            }
             itemView.setOnClickListener {
                 listener(event)
             }
